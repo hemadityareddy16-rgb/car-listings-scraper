@@ -1,4 +1,4 @@
-\# Car Listings Scraper
+# Car Listings Scraper
 
 
 
@@ -6,7 +6,7 @@ Python scraper that collects listings from a paginated demo site with several ca
 
 
 
-\## What it does
+## What it does
 
 
 
@@ -20,7 +20,7 @@ Python scraper that collects listings from a paginated demo site with several ca
 
 
 
-\## Tools used
+## Tools used
 
 
 
@@ -28,7 +28,7 @@ Python, requests, BeautifulSoup, pandas, openpyxl
 
 
 
-\## How to run
+## How to run
 
 
 
@@ -42,7 +42,7 @@ Output: `cars\_report.xlsx`
 
 
 
-\## Data source
+## Data source
 
 
 
@@ -50,7 +50,7 @@ Output: `cars\_report.xlsx`
 
 
 
-\## Available for freelance work
+## Available for freelance work
 
 
 
